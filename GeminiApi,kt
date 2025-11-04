@@ -1,7 +1,7 @@
-package com.humblecoders.humblebot.api
+package com.example.ai_chatbot.API
 
-import com.humblecoders.humblebot.model.GeminiRequest
-import com.humblecoders.humblebot.model.GeminiResponse
+import com.example.ai_chatbot.model.GeminiRequest
+import com.example.ai_chatbot.model.GeminiResponse
 import retrofit2.Response
 import retrofit2.http.Body
 import retrofit2.http.POST
